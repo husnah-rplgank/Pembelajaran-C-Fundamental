@@ -17,10 +17,6 @@
 |--------|---------|
 | 🔹 Pengenalan | [Klik di sini](#-pengenalan) |
 | 🔹 Fitur Utama | [Klik di sini](#-fitur-utama) |
-| 🔹 Struktur Repo | [Klik di sini](#-struktur-repo) |
-| 🔹 Cara Pakai | [Klik di sini](#-cara-pakai) |
-| 🔹 FAQ (yang agak nyebelin tapi penting) | [Klik di sini](#-faq) |
-| 🔹 Kontribusi | [Klik di sini](#-kontribusi) |
 
 </div>
 
