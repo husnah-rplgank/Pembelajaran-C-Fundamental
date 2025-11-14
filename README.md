@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌊 **Pembelajaran C++ Fundamental**
-### Belajar C++ dari dasar — simpel, terarah, dan penuh warna biru!  
+### Belajar C++ dari dasar — simpel, terarah!  
 <br>
 
 ![Status](https://img.shields.io/badge/STATUS-AKTIF-1E90FF?style=for-the-badge)
