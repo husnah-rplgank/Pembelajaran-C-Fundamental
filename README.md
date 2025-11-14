@@ -1,53 +1,71 @@
-<div align="center">
+<!-- README: Pembelajaran C++ Fundamental -->
 
-# 💙🌊 **Pembelajaran C++ Fundamental** 🌊💙  
-### *Belajar C++ tanpa mumet, tanpa drama, tapi tetap berfaedah!*  
-<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E90FF&center=true&vCenter=true&width=650&lines=💙+Pembelajaran+C%2B%2B+Fundamental+💙" />
+</h1>
 
-<img src="https://img.shields.io/badge/C%2B%2B-LEVEL%20PEMULA-1E90FF?style=for-the-badge&logo=c%2B%2B">
-<img src="https://img.shields.io/badge/MOOD-BIRU%20TENANG-00BFFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/TUTORIAL-INTERAKTIF-4169E1?style=for-the-badge">
-<img src="https://img.shields.io/badge/SEMANGAT-100%25-0000FF?style=for-the-badge">
-
----
-
-### 🔵 **Klik salah satu untuk langsung menuju bagian tertentu!**
-
-| 🎯 Menu | 📎 Link |
-|--------|---------|
-| 🔹 Pengenalan | [Klik di sini](#-pengenalan) |
-| 🔹 Fitur Utama | [Klik di sini](#-fitur-utama) |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Fundamental-1e90ff?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Belajar-Interaktif-0099ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ngoding-Full%20Semangat-33b5ff?style=for-the-badge"/>
+</p>
 
 ---
 
-## 💙 Pengenalan
-Belajar C++ itu kayak belajar naik sepeda:  
-**awal goyang, tengah kenceng, akhir tinggal ngebut!**  
+## 🌊 <span style="color:#007bff;">Tentang Repo Ini</span>
 
-Repo ini dibuat buat kamu yang:
-- baru mulai ngoding,  
-- pengen paham konsep dasar tanpa dibikin stres,  
-- atau cuma pengen melihat dunia dari sudut pandang pointer (ciyeh…).  
+<img align="right" width="180" src="https://i.imgur.com/E6kXJrT.gif" />
 
-Semua materi disajikan **ringkas, ramah otak, dan full biru biar adem**.
+Repo ini memuat materi C++ dasar yang dibikin:
+
+- **Ringkas**
+- **Mudah dicerna**
+- **Aman untuk pemula**
+- **Lucu dikit biar nggak stress 😆**
+
+Kalau kamu pernah ngomel:  
+> *“Loh kok error? Padahal cuma kurang titik koma…”*  
+
+Tenang. Compiler memang suka drama. 😭💙
 
 ---
 
-## 🔷 Fitur Utama
+## 🔵 <span style="color:#008cff;">Apa yang Ada di Dalam?</span>
 
-### 🔵 **1. Penjelasan yang Simple**
-Nggak ada kalimat muter-muter.  
-Langsung to the point kayak dosen pas udah mau pulang.
+### 📘 Dasar-Dasar C++
+- Variabel & Tipe Data  
+- Operator  
+- Input & Output  
+- Struktur Kontrol  
 
-### 🔵 **2. Contoh Kode Siap Coba**
-Setiap topik punya contoh kode:
+### 🌀 Level Menengah
+- Fungsi  
+- Array  
+- String  
+- Pointer (si biang galau)
+
+### 🎨 Biru Vibes Everywhere
+<p align="center">
+  <img src="https://i.imgur.com/1zVq9U3.jpeg" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/B7iR3Ca.jpeg" width="300" />
+</
+
+</details>
+
+<p align="center">
+  <img src="https://i.imgur.com/NBXwZ0P.gif" width="260"/>
+</p>
+
+</details>
+
+---
+
+## 🔧 Contoh Kode
+
 ```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Halo dunia biru!" << endl;
-    return 0;
+for (int i = 1; i <= 3; i++) {
+    cout << "Semangat belajar C++! 💙" << endl;
 }
